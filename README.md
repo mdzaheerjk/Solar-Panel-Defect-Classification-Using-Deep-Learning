@@ -12,7 +12,7 @@ This project focuses on building and deploying image classification models using
 ## System Architecture
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/Gemini_Generated_Image_vwro75vwro75vwro_UvMo1qV.jpg"
+  <img src="https://career-platform-may-2026.s3.ap-south-1.amazonaws.com/krishnaik.in/media/project_architecture_diagrams/Gemini_Generated_Image_vwro75vwro75vwro_UvMo1qV.jpg"
        alt="System Architecture"
        width="600" />
 </p>
